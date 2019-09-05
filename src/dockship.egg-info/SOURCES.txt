@@ -1,0 +1,7 @@
+README.md
+setup.py
+src/hellotest.py
+src/dockship.egg-info/PKG-INFO
+src/dockship.egg-info/SOURCES.txt
+src/dockship.egg-info/dependency_links.txt
+src/dockship.egg-info/top_level.txt
