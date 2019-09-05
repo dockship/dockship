@@ -1,5 +1,11 @@
+LICENSE
+MANIFEST.in
+Pipfile
+Pipfile.lock
 README.md
 setup.py
+dist/dockship-0.0.2-py2-none-any.whl
+dist/dockship-0.0.2.tar.gz
 src/hellotest.py
 src/dockship.egg-info/PKG-INFO
 src/dockship.egg-info/SOURCES.txt
